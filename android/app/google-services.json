@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "640483862764",
+    "project_id": "upskill-fest",
+    "storage_bucket": "upskill-fest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640483862764:android:1728474ba3fb769d999dc9",
+        "android_client_info": {
+          "package_name": "com.example.upskill_practices"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640483862764-lsndi6mibgqgo07l3o9a7bgh37s5p4h4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnKCMBuC2zKwKpH0ObC6VIliKNyH0gv3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640483862764-lsndi6mibgqgo07l3o9a7bgh37s5p4h4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
